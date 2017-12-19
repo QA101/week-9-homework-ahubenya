@@ -1,0 +1,45 @@
+
+Website: http://demoqa.com/ 
+
+Demoqa home button  - name="Home" id="menu-item-38"
+Demoqa about us button  - name="About us" id="menu-item-158"
+Demoqa services button  - name="Services" id="menu-item-155"
+Demoqa demo button  - name="Demo" id="menu-item-66"
+Demoqa clog button  - name="Blog" id="menu-item-65"
+Demoqa contact button  - name="Contact" id="menu-item-64"
+
+
+?? Demoqa breadcrumb menu label  - name="Home" id="breadcrumbs"
+?? Demoqa header label  - name="Home"
+
+Demoqa Div1 text label  - name="Unique & Clean"
+Demoqa text field =  "Aliquam hendrit rutrum iaculis nullam ondimentum maluada velit beum donec sit amet"
+
+Demoqa Div2 text label  - name="Customer Support"
+Demoqa text field =  "Aliquam hendrit rutrum iaculis nullam ondimentum maluada velit beum donec sit amet"
+
+Demoqa Div3 text label  - name="Very Flexible"
+Demoqa text field =  "Aliquam hendrit rutrum iaculis nullam ondimentum maluada velit beum donec sit amet"
+		
+Demoqa Widget "Accordion" button - id="menu-item-144"
+Demoqa Widget "Autocomplete" button - id="menu-item-145" 
+Demoqa Widget "Datepicker" button - id="menu-item-146"
+Demoqa Widget "Menu" button - id="menu-item-147" 
+Demoqa Widget "Slider" button - id="menu-item-97"
+Demoqa Widget "Tabs" button - id="menu-item-98" 
+Demoqa Widget "Tooltip' button - id="menu-item-99" 
+	
+Demoqa tab 1 button  - name="Tab 1" 
+
+
+Website: http://automationpractice.com/index.php
+
+Contact button - id="contact-link"
+Sign in button - class="header_user_info"
+Women link - class="sf-with-ul"
+Dressed link - class="sf-with-ul"
+T-shirts link - T-shirts </a>
+
+
+
+		
